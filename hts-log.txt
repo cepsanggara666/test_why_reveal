@@ -1,0 +1,10 @@
+HTTrack3.49-2 launched on Sat, 12 Mar 2022 13:58:46 at https://retrowavedeer.com
+(winhttrack https://retrowavedeer.com -O "https://retrowavedeer.com/revealdeer" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:02:10	Error: 	"Not Found" (404) at link https://metamask.io/privacy/ (from https://metamask.io/)
+14:02:10	Error: 	"Not Found" (404) at link https://metamask.io/terms/ (from https://metamask.io/)

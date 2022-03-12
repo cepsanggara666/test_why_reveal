@@ -1,0 +1,7 @@
+Mirror in progress since Sat, 12 Mar 2022 13:58:46 .. please wait!
+winhttrack https://retrowavedeer.com -O "https://retrowavedeer.com/revealdeer" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=8015
+UID=0
+GID=0
+START=1647068326
